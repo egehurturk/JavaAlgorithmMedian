@@ -6,4 +6,4 @@ Then compute the median of the sorted and merged array
 Print the result
 
 
-Performance: $O(log(m+n))$ if `n1[]` has m elements and `n2[]` has n elements
+Performance: ![equation](https://latex.codecogs.com/gif.latex?O(log(m&plus;n))) if `n1[]` has m elements and `n2[]` has n elements
